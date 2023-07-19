@@ -11,5 +11,4 @@ git clone https://github.com/dev1jedi/chert_gpt
 pip install -r requirements.txt
 
 python bot.py
-
 ```
